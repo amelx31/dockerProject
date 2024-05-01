@@ -6,7 +6,7 @@ spec:
   hosts:
   - "*" # Match all hosts
   gateways:
-  - my-gateway # Use the name of your Gateway
+  - my-gateway 
   http:
   - route:
     - destination:
